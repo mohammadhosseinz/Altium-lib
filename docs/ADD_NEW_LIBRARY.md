@@ -23,6 +23,7 @@ Write an English `README.md` in the library folder. Include:
 - The exact part or module variant and links to the source datasheet or model.
 - The creator, source, and redistribution permission for third-party CAD models and photographs.
 - A preview image embedded with a relative path, clearly identified as a library preview or product photo.
+- A 3D render when a STEP model is supplied, identifying which variant is embedded in the footprint.
 - A file list and instructions for loading the source libraries in Altium Designer.
 - The top-view orientation, pin 1 location, and pin numbering convention.
 - Pitch, row spacing, board outline, pad and drill sizes, and relevant mounting height.

@@ -9,6 +9,16 @@ Editable Altium Designer libraries for development boards and modules. Each libr
 | [ESP32 Type-C 30-pin](ESP32_TypeC_30P/ESP32_TypeC_30P/README.md) | ESP32 development board with USB-C and CH340; 15 pins per side | SchLib, PcbLib, LibPkg, STEP, pin map, preview | Pin/pad mapping and file structure checked; native Altium compilation not verified |
 | [DRV8833 module](DRV8833/DRV8833_Altium/README.md) | 12-pin DRV8833 motor driver module | SchLib, PcbLib, STEP, pin map, previews | Pin/pad mapping and file structure checked; native Altium opening not verified |
 
+## 3D model previews
+
+| ESP32 with headers | DRV8833 model A |
+| --- | --- |
+| [![ESP32 30-pin board with headers, 3D STEP render](ESP32_TypeC_30P/ESP32_TypeC_30P/3D/Preview_with_headers.png)](ESP32_TypeC_30P/ESP32_TypeC_30P/3D/Preview_with_headers.png) | [![DRV8833 model A, 3D STEP render](DRV8833/DRV8833_Altium/3D/Preview_A.png)](DRV8833/DRV8833_Altium/3D/Preview_A.png) |
+
+These are CAD renders of the STEP models embedded in the footprints, with illustrative studio materials. The library pages also show the alternative models.
+
+## Symbol and footprint previews
+
 ### ESP32 Type-C 30-pin
 
 [![ESP32 schematic symbol and PCB footprint preview](ESP32_TypeC_30P/ESP32_TypeC_30P/Preview.png)](ESP32_TypeC_30P/ESP32_TypeC_30P/README.md)

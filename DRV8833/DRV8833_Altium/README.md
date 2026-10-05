@@ -2,6 +2,16 @@
 
 Editable symbol and footprint for the 12-pin [DRV8833 module shown by the supplier](https://www.javanelec.com/shop/product/34544/non-brand/drv8833-module), based on the supplied STEP geometry. This library represents a module connector, not the pin numbering of the DRV8833 IC itself.
 
+## 3D previews
+
+| Model A (embedded in the footprint) | Model B (alternative header orientation) |
+| --- | --- |
+| [![DRV8833 model A, 3D STEP render](3D/Preview_A.png)](3D/Preview_A.png) | [![DRV8833 model B, 3D STEP render](3D/Preview_B.png)](3D/Preview_B.png) |
+
+Rendered from the supplied STEP geometry with illustrative studio materials. These previews show the standalone models; they do not verify their placement on a host PCB in Altium.
+
+## Symbol and footprint previews
+
 | Schematic symbol preview | PCB footprint preview |
 | --- | --- |
 | ![DRV8833 schematic symbol](Symbol_Preview.png) | ![DRV8833 PCB footprint, top view](Footprint_Preview.png) |
@@ -16,7 +26,7 @@ These are previews of the library files, not photographs or Altium Designer scre
 | [DRV8833_Module.PcbLib](DRV8833_Module.PcbLib) | `DRV8833_MODULE_2X6_P254_R1524` footprint with STEP model A embedded |
 | [Pin_Mapping.csv](Pin_Mapping.csv) | Pad numbers, labels, functions, and coordinates in millimeters |
 | [Symbol_Preview.svg](Symbol_Preview.svg), [Footprint_Preview.svg](Footprint_Preview.svg) | Vector versions of the previews |
-| [3D/](3D/) | Original STEP models A and B; model B has a different header orientation and is not embedded in the footprint |
+| [3D/](3D/) | Original STEP models A and B and PNG renders; model B has a different header orientation and is not embedded in the footprint |
 
 ## Use in Altium Designer
 

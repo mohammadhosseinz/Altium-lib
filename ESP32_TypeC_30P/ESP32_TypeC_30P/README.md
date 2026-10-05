@@ -2,6 +2,16 @@
 
 Editable symbol and footprint for a 30-pin ESP32 development board with USB-C at the bottom and the antenna at the top. This is the 15-pins-per-side variant represented in the supplied board image, not the 38-pin variant shown on some store pages. Match the labels and dimensions against your actual board before fabrication.
 
+## 3D previews
+
+| With headers (embedded in the footprint) | Without headers |
+| --- | --- |
+| [![ESP32 with headers, 3D STEP render](3D/Preview_with_headers.png)](3D/Preview_with_headers.png) | [![ESP32 without headers, 3D STEP render](3D/Preview_without_headers.png)](3D/Preview_without_headers.png) |
+
+Rendered from the supplied STEP geometry with illustrative studio materials. These previews show the standalone models; they do not verify their placement on a host PCB in Altium.
+
+## Symbol and footprint preview
+
 ![ESP32 schematic symbol and PCB footprint preview](Preview.png)
 
 The image is a 2D preview reconstructed from the library files, not a screenshot from Altium Designer or a photograph. [Persian documentation](README_FA.md) is also available.
@@ -15,7 +25,7 @@ The image is a 2D preview reconstructed from the library files, not a screenshot
 | [ESP32_TypeC_30P.LibPkg](ESP32_TypeC_30P.LibPkg) | Project for compiling an integrated library |
 | [PinMap.csv](PinMap.csv) | Pad numbers, board labels, GPIO names, sides, coordinates, and electrical types |
 | [Verification.json](Verification.json) | Recorded structural checks and model placement values |
-| [3D/](3D/) | Supplied STEP models with and without headers |
+| [3D/](3D/) | Supplied STEP models with and without headers, plus PNG renders of both variants |
 
 ## Use in Altium Designer
 
