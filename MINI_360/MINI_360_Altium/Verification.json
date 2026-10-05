@@ -1,0 +1,39 @@
+{
+  "pin_count": 4,
+  "pad_count": 4,
+  "pin_names_roundtrip_match": true,
+  "pin_pad_designators_match": true,
+  "explicit_pin_pad_map_verified": true,
+  "pad_coordinates_roundtrip_match": true,
+  "plated_drill_mm": 1.0,
+  "pad_size_mm": 1.8,
+  "board_outline_mm": [
+    18,
+    12
+  ],
+  "hole_center_spacing_mm": [
+    16.4,
+    10.4
+  ],
+  "model_hole_diameter_mm": 1.2,
+  "model_rotation_z_degrees": -90,
+  "model_xy_offset_mm": [
+    -0.133657042013,
+    -0.631833289516
+  ],
+  "model_z_offset_mm": -14,
+  "module_board_bottom_above_host_mm": 2,
+  "model_top_above_host_mm": 5.75,
+  "step_embedded": true,
+  "model_hole_axes_align_with_saved_pads": true,
+  "embedded_model_transform_roundtrip_verified": true,
+  "step_identical_to_supplied_model": true,
+  "embedded_step_sha256": "068b941c904fd81438f82f22c6173d874a3ffb5d1a46a26583afe0125df4f3c8",
+  "supplier_nominal_outline_mm": [
+    17,
+    11
+  ],
+  "mechanical_basis": "Supplied STEP; supplier dimensions differ",
+  "native_altium_open_and_compile_verified": false,
+  "dimensions_measured_on_hardware": false
+}

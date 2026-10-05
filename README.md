@@ -8,6 +8,7 @@ Editable Altium Designer libraries for development boards and modules. Each libr
 | --- | --- | --- | --- |
 | [ESP32 Type-C 30-pin](ESP32_TypeC_30P/ESP32_TypeC_30P/README.md) | ESP32 development board with USB-C and CH340; 15 pins per side | SchLib, PcbLib, LibPkg, STEP, pin map, preview | Pin/pad mapping and file structure checked; native Altium compilation not verified |
 | [DRV8833 module](DRV8833/DRV8833_Altium/README.md) | 12-pin DRV8833 motor driver module | SchLib, PcbLib, STEP, pin map, previews | Pin/pad mapping and file structure checked; native Altium opening not verified |
+| [MINI-360 buck converter](MINI_360/MINI_360_Altium/README.md) | Four-terminal adjustable DC-DC module; supplied HW-187 model variant | SchLib, PcbLib, LibPkg, embedded STEP, pin map, previews, English/Persian guides | Pin/pad mapping and STEP hole alignment checked; model is 18 x 12 mm versus supplier's 17 x 11 mm; native Altium not verified |
 
 ## 3D model previews
 
@@ -16,6 +17,12 @@ Editable Altium Designer libraries for development boards and modules. Each libr
 | [![ESP32 30-pin board with headers, 3D STEP render](ESP32_TypeC_30P/ESP32_TypeC_30P/3D/Preview_with_headers.png)](ESP32_TypeC_30P/ESP32_TypeC_30P/3D/Preview_with_headers.png) | [![DRV8833 model A, 3D STEP render](DRV8833/DRV8833_Altium/3D/Preview_A.png)](DRV8833/DRV8833_Altium/3D/Preview_A.png) |
 
 These are CAD renders of the STEP models embedded in the footprints, with illustrative studio materials. The library pages also show the alternative models.
+
+### MINI-360
+
+[![MINI-360 supplied CAD model](MINI_360/MINI_360_Altium/3D/Preview.png)](MINI_360/MINI_360_Altium/README.md)
+
+Unmodified CAD preview from the supplied model archive; the footprint embeds this HW-187 model without mounting pins.
 
 ## Symbol and footprint previews
 
@@ -30,6 +37,14 @@ These are CAD renders of the STEP models embedded in the footprints, with illust
 | [![DRV8833 schematic symbol preview](DRV8833/DRV8833_Altium/Symbol_Preview.png)](DRV8833/DRV8833_Altium/README.md) | [![DRV8833 PCB footprint preview](DRV8833/DRV8833_Altium/Footprint_Preview.png)](DRV8833/DRV8833_Altium/README.md) |
 
 These images are library previews, not photographs or screenshots from Altium Designer. The library READMEs contain pin orientation, dimensions, model details, and verification limits.
+
+### MINI-360 buck converter
+
+| Schematic symbol | PCB footprint |
+| --- | --- |
+| [![MINI-360 schematic symbol](MINI_360/MINI_360_Altium/Symbol_Preview.png)](MINI_360/MINI_360_Altium/README.md) | [![MINI-360 PCB footprint](MINI_360/MINI_360_Altium/Footprint_Preview.png)](MINI_360/MINI_360_Altium/README.md) |
+
+See the [Persian guide](MINI_360/MINI_360_Altium/README_FA.md) for installation and the model/supplier dimension discrepancy.
 
 ## Using a library
 

@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added MINI-360 four-pin SchLib/PcbLib and LibPkg with embedded supplied HW-187 STEP, pin map, binary readback/model alignment checks, previews, and English/Persian documentation.
+- Registered MINI-360 in the library index and root README; documented the model/supplier size and controller variant discrepancies and supplied asset provenance.
 - Added repository-level documentation for public use.
 - Added contribution guidance and a checklist for future Altium libraries.
 - Added Git attributes and ignore rules for Altium/CAD workflows.

@@ -1,0 +1,9 @@
+[Design]
+Version=1.0
+
+[Document1]
+DocumentPath=MINI_360_Module.SchLib
+
+[Document2]
+DocumentPath=MINI_360_Module.PcbLib
+

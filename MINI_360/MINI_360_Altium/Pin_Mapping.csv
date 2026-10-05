@@ -1,0 +1,5 @@
+pad,pin,function,x_mm,y_mm
+1,IN+,Positive input,-8.2,-5.2
+2,IN-,Input return (common GND),-8.2,5.2
+3,OUT-,Output return (common GND),8.2,5.2
+4,OUT+,Positive adjustable output,8.2,-5.2
