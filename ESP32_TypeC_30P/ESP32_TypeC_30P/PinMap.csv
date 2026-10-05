@@ -1,0 +1,31 @@
+﻿Pad,Board label / GPIO,"Side (top view, USB down)",X_mm,Y_mm,Electrical type
+1,EN,left,-12.7,35.56,input
+2,VP / GPIO36,left,-12.7,33.02,input
+3,VN / GPIO39,left,-12.7,30.48,input
+4,D34 / GPIO34,left,-12.7,27.94,input
+5,D35 / GPIO35,left,-12.7,25.4,input
+6,D32 / GPIO32,left,-12.7,22.86,bidirectional
+7,D33 / GPIO33,left,-12.7,20.32,bidirectional
+8,D25 / GPIO25,left,-12.7,17.78,bidirectional
+9,D26 / GPIO26,left,-12.7,15.24,bidirectional
+10,D27 / GPIO27,left,-12.7,12.7,bidirectional
+11,D14 / GPIO14,left,-12.7,10.16,bidirectional
+12,D12 / GPIO12,left,-12.7,7.62,bidirectional
+13,D13 / GPIO13,left,-12.7,5.08,bidirectional
+14,GND,left,-12.7,2.54,power
+15,VIN,left,-12.7,0.0,power
+16,3V3,right,12.7,0.0,power
+17,GND,right,12.7,2.54,power
+18,D15 / GPIO15,right,12.7,5.08,bidirectional
+19,D2 / GPIO2,right,12.7,7.62,bidirectional
+20,D4 / GPIO4,right,12.7,10.16,bidirectional
+21,D16 / GPIO16,right,12.7,12.7,bidirectional
+22,D17 / GPIO17,right,12.7,15.24,bidirectional
+23,D5 / GPIO5,right,12.7,17.78,bidirectional
+24,D18 / GPIO18,right,12.7,20.32,bidirectional
+25,D19 / GPIO19,right,12.7,22.86,bidirectional
+26,D21 / GPIO21,right,12.7,25.4,bidirectional
+27,RX0 / GPIO3,right,12.7,27.94,input
+28,TX0 / GPIO1,right,12.7,30.48,output
+29,D22 / GPIO22,right,12.7,33.02,bidirectional
+30,D23 / GPIO23,right,12.7,35.56,bidirectional

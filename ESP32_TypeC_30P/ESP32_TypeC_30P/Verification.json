@@ -1,0 +1,21 @@
+{
+  "pin_count": 30,
+  "pad_count": 30,
+  "pin_pad_designators_match": true,
+  "photo_pin_names_roundtrip_match": true,
+  "pitch_mm": 2.54,
+  "row_spacing_mm": 25.4,
+  "pad_diameter_mm": 1.8,
+  "drill_mm": 1.0,
+  "step_embedded": true,
+  "embedded_step_sha256": "6867c64ff531cd1680e44e7b73a4c9187f1c1e0ecb7858e0972ce12762888254",
+  "step_identical_to_supplied_model": true,
+  "native_altium_open_and_compile_verified": false,
+  "dimensions_measured_on_hardware": false,
+  "step_solid_count": 159,
+  "model_z_offset_mm": 3.64,
+  "model_top_above_host_mm": 7.69,
+  "model_header_pin_tip_below_host_mm": 6.0,
+  "structure_validation_errors": 0,
+  "structure_validation_warnings": 0
+}

@@ -1,0 +1,50 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Altium Designer generated files
+__Previews/
+History/
+Project Logs*/
+Project Outputs*/
+Generated/
+OutputJob*/
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.Dat
+*.REP
+*.LOG
+*.htm
+*.html
+*.err
+
+# Altium backups and autosaves
+*.SchLibPreview
+*.PcbLibPreview
+*.SchDocPreview
+*.PcbDocPreview
+*.SchDoc.htm
+*.PcbDoc.htm
+*.SchLib.htm
+*.PcbLib.htm
+*.SchLib.Zip
+*.PcbLib.Zip
+*.SchLib.~*
+*.PcbLib.~*
+*.SchDoc.~*
+*.PcbDoc.~*
+*.LibPkg.~*
+
+# Build outputs that can be regenerated from source libraries
+*.IntLib
+*.CompiledLib
+
+# Local notes and scratch work
+work/
+scratch/
+tmp/
+temp/

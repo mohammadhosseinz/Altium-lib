@@ -1,0 +1,8 @@
+[Design]
+Version=1.0
+
+[Document1]
+DocumentPath=ESP32_TypeC_30P.SchLib
+
+[Document2]
+DocumentPath=ESP32_TypeC_30P.PcbLib

@@ -1,0 +1,28 @@
+name: Library request
+description: Request a new Altium library or report an issue in an existing one.
+title: "[Library] "
+labels:
+  - library
+body:
+  - type: input
+    id: part
+    attributes:
+      label: Part or module name
+      description: Exact module/IC/board name.
+      placeholder: ESP32 Type-C 30P
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: References
+      description: Add datasheet, store page, photos, STEP model, or measured dimensions.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Pinout, mechanical constraints, known variants, or special verification needs.
+    validations:
+      required: false

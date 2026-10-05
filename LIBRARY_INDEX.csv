@@ -1,0 +1,3 @@
+name,description,folder,schlib,pcblib,pins,has_3d_model,has_preview,verification_status
+ESP32_TypeC_30P,"ESP32 Type-C CH340 development board, 30 pins",ESP32_TypeC_30P/ESP32_TypeC_30P,ESP32_TypeC_30P.SchLib,ESP32_TypeC_30P.PcbLib,30,yes,yes,"structure checked; native Altium compile not verified"
+DRV8833,"DRV8833 motor driver module, 12 pins",DRV8833/DRV8833_Altium,DRV8833_Module.SchLib,DRV8833_Module.PcbLib,12,yes,yes,"structure checked; native Altium open not verified"

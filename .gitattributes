@@ -1,0 +1,20 @@
+# Treat Altium library sources and CAD assets as binary files in Git.
+*.SchLib binary
+*.PcbLib binary
+*.IntLib binary
+*.LibPkg text eol=crlf
+
+# STEP files are often text, but diffs are noisy and not useful for review here.
+*.step binary
+*.stp binary
+
+# Preview assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.svg text eol=lf
+
+# Documentation and tabular metadata
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
