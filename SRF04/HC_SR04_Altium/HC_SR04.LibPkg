@@ -1,0 +1,8 @@
+[Design]
+Version=1.0
+
+[Document1]
+DocumentPath=HC_SR04_Module.SchLib
+
+[Document2]
+DocumentPath=HC_SR04_Module.PcbLib

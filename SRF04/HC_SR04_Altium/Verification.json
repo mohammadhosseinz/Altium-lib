@@ -1,0 +1,38 @@
+{
+  "pin_count": 4,
+  "pad_count": 4,
+  "pin_names_roundtrip_match": true,
+  "pin_electrical_types_roundtrip_match": true,
+  "pin_pad_designators_match": true,
+  "explicit_pin_pad_map_verified": true,
+  "pad_coordinates_roundtrip_match": true,
+  "plated_drill_mm": 1.02,
+  "pad_size_mm": 1.8,
+  "pitch_mm": 2.54,
+  "model_board_size_mm": [
+    45,
+    20,
+    1.2
+  ],
+  "mounting": "Vertical module with supplied right-angle header; sensor faces -Y",
+  "module_height_above_host_mm": 20,
+  "model_rotation_degrees": [
+    90,
+    0,
+    0
+  ],
+  "model_xy_offset_mm": [
+    0,
+    -10.05
+  ],
+  "model_z_offset_mm": 0,
+  "model_free_header_legs_align_with_saved_pads": true,
+  "model_pin_tip_below_host_mm": 7.53,
+  "step_embedded": true,
+  "embedded_model_transform_roundtrip_verified": true,
+  "embedded_step_sha256": "6700c3602de3ff963e6b4e607c9dfcfb1589957256c8f6719b09317fede2b3d9",
+  "supplied_intlib_sha256": "a97614e53b37cfc0d88f75d6a1cbf9d463626916863a7ad021c317dab9f38e2e",
+  "native_altium_open_and_compile_verified": false,
+  "dimensions_measured_on_hardware": false,
+  "model_pin_function_labels_verified": false
+}

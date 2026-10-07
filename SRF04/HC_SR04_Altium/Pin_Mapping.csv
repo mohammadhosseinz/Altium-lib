@@ -1,0 +1,5 @@
+pad,pin,function,x_mm,y_mm
+1,VCC,+5 V supply,-3.81,0
+2,TRIG,Trigger input,-1.27,0
+3,ECHO,Echo pulse output,1.27,0
+4,GND,Supply return,3.81,0

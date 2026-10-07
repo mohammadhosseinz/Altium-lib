@@ -2,3 +2,4 @@ name,description,folder,schlib,pcblib,pins,has_3d_model,has_preview,verification
 ESP32_TypeC_30P,"ESP32 Type-C CH340 development board, 30 pins",ESP32_TypeC_30P/ESP32_TypeC_30P,ESP32_TypeC_30P.SchLib,ESP32_TypeC_30P.PcbLib,30,yes,yes,"structure checked; native Altium compile not verified"
 DRV8833,"DRV8833 motor driver module, 12 pins",DRV8833/DRV8833_Altium,DRV8833_Module.SchLib,DRV8833_Module.PcbLib,12,yes,yes,"structure checked; native Altium open not verified"
 MINI_360,"MINI-360 buck converter, supplied HW-187 18x12 mm model variant",MINI_360/MINI_360_Altium,MINI_360_Module.SchLib,MINI_360_Module.PcbLib,4,yes,yes,"pin/pad and STEP alignment checked; supplier size differs; native Altium not verified"
+HC_SR04,"HC-SR04 ultrasonic module, vertical right-angle-header mounting",SRF04/HC_SR04_Altium,HC_SR04_Module.SchLib,HC_SR04_Module.PcbLib,4,yes,yes,"pin/pad and STEP header alignment checked; native Altium not verified"
